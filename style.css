@@ -1,0 +1,22 @@
+#Container {
+  margin: auto;
+  text-align: center;
+}
+#TheImage {
+  height: 300px;
+  width: auto;
+}
+
+.hidden {
+  display: none;
+}
+
+html, body { margin: 0; padding: 0; height: 100%; }
+
+
+body {
+  background-image: url(https://images.steamusercontent.com/ugc/848079540097334421/D19833070A5F3B85F73F818A2AF63F50D9C081DD/);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
